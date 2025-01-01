@@ -3,9 +3,9 @@
   "href": "https://api-us.boxever.com/v3/flowDefinitions/3aca0673-2d79-4b5f-b8e4-085deec6e95e",
   "ref": "3aca0673-2d79-4b5f-b8e4-085deec6e95e",
   "name": "embedded_{scope}_b2a38fb82e854d58afe5c12beccbee3a_en",
-  "modifiedByRef": "UsQ4dFnLMklHuDXU8acKstHeXEC65tgU@clients",
-  "modifiedAt": "2024-12-30T19:57:28.032Z",
-  "revision": 2,
+  "modifiedByRef": "auth0|62c2ce06c96a90d0cd42847e",
+  "modifiedAt": "2024-12-31T16:58:17.777Z",
+  "revision": 6,
   "archived": false,
   "friendlyId": "embedded_{scope}_b2a38fb82e854d58afe5c12beccbee3a_en",
   "type": "INTERACTIVE_API_FLOW",
@@ -20,7 +20,7 @@
   "traffic": {
     "type": "audienceTraffic",
     "weightingAlgorithm": "USER_DEFINED",
-    "modifiedAt": "2024-12-30T19:57:28.057Z",
+    "modifiedAt": "2024-12-31T16:58:17.798Z",
     "splits": [
       {
         "template": "{\"variantId\": \"5e9637fd02a84b21b5f46c1466e26e17\"}",
@@ -113,13 +113,31 @@
             ]
           }
         ]
+      },
+      {
+        "template": "{\"variantId\": \"e578e5a6a5034f43a5668653ef215dbf\"}",
+        "variantName": "Frequent Credit Card Page Visitors",
+        "audienceName": "Frequent Credit Card Page Visitors",
+        "conditionGroups": [
+          {
+            "conditions": [
+              {
+                "templateId": "page_view",
+                "params": {
+                  "has": "has",
+                  "page name(s)": "/CC"
+                }
+              }
+            ]
+          }
+        ]
       }
     ]
   },
   "variants": [],
   "transpiledVariants": [
     {
-      "ref": "2c2a9311-560f-4971-b821-a7489dba34ed",
+      "ref": "ba91ad9e-d0b0-4367-97ca-b8790edc927e",
       "name": "Retirement Page View",
       "tasks": [
         {
