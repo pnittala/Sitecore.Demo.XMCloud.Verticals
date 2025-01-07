@@ -4,8 +4,8 @@
   "ref": "3aca0673-2d79-4b5f-b8e4-085deec6e95e",
   "name": "embedded_{scope}_b2a38fb82e854d58afe5c12beccbee3a_en",
   "modifiedByRef": "UsQ4dFnLMklHuDXU8acKstHeXEC65tgU@clients",
-  "modifiedAt": "2025-01-03T19:39:41.809Z",
-  "revision": 10,
+  "modifiedAt": "2025-01-06T17:36:00.597Z",
+  "revision": 12,
   "archived": false,
   "friendlyId": "embedded_{scope}_b2a38fb82e854d58afe5c12beccbee3a_en",
   "type": "INTERACTIVE_API_FLOW",
@@ -20,7 +20,7 @@
   "traffic": {
     "type": "audienceTraffic",
     "weightingAlgorithm": "USER_DEFINED",
-    "modifiedAt": "2025-01-03T19:39:41.948Z",
+    "modifiedAt": "2025-01-06T17:36:00.626Z",
     "splits": [
       {
         "template": "{\"variantId\": \"5e9637fd02a84b21b5f46c1466e26e17\"}",
@@ -137,7 +137,7 @@
   "variants": [],
   "transpiledVariants": [
     {
-      "ref": "0e50eecd-9499-4fd1-b555-a513020cbdb0",
+      "ref": "64fcfc91-a4a5-4e5d-8271-2391764e75bb",
       "name": "Frequent Credit Card Page Visitors",
       "tasks": [
         {
