@@ -29,10 +29,10 @@ Languages:
         </div>
     - ID: "1f0455dc-9254-4487-b94d-6c66f103e7bf"
       Hint: Title
-      Value: Say hello to convenient banking with our mobile application
+      Value: "Say hello to convenient banking with our mobile application!"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "4697bc62-b1d6-4131-8964-e2c6072b9d8a"
+      Value: "b9445281-7bf4-4bd4-83a0-79d409b08bad"
 - Language: "fr-CA"
   Versions:
   - Version: 1
