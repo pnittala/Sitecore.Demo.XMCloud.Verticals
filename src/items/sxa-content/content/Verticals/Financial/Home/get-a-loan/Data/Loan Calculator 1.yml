@@ -22,16 +22,16 @@ Languages:
       Value: 12
     - ID: "6e34ac44-29b8-4e35-9d5f-a01d00d0dad9"
       Hint: TermName
-      Value: mo.
+      Value: meses
     - ID: "7e3f75ea-27ac-4402-8dae-1773f8f49915"
       Hint: MaxAmount
       Value: 80000
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "d146234d-e0cc-4d58-9537-b569245b2f2c"
+      Value: "83eb0c00-7acd-495a-ab0d-32a374e8f656"
     - ID: "9bb8d058-6016-458e-8f27-cc12d57e7939"
       Hint: Currency
-      Value: eur
+      Value: usd
     - ID: "b3aa7233-e4a9-4a10-9a00-8b4c48219a5a"
       Hint: MinAmount
       Value: 1000

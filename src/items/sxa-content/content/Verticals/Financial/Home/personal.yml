@@ -16,7 +16,7 @@ SharedFields:
 - ID: "df6dc0ca-f8ee-493a-a920-f2b710f08452"
   Hint: BackgroundImage
   Value: |
-    <image mediaid="{D5A59561-6EB1-4AAB-B8FE-7D426C08139B}" alt="house-key-calculator-with-dollar-bills" height="" width="" hspace="" vspace="" />
+    <image mediaid="d5a59561-6eb1-4aab-b8fe-7d426c08139b" />
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -88,6 +88,39 @@ Languages:
           <d
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
+              uid="{FA3AF3E9-7260-4835-9970-36524246AD28}">
+              <rls>
+                <ruleset
+                  s:pet="true">
+                  <rule
+                    uid="{DF7C3D82-D252-4A78-BD47-1519B6B10BBE}"
+                    s:name="dceda4e1ad17426aaf541482d1cfa5b7">
+                    <conditions>
+                      <condition
+                        uid="192E597A76A443C783E781D9DF2CEEB0"
+                        s:id="{8E7426A4-12ED-4C44-8625-E7191860E726}"
+                        s:VariantName="dceda4e1ad17426aaf541482d1cfa5b7" />
+                    </conditions>
+                    <actions>
+                      <action
+                        uid="{94FDED0E-9D5F-4D74-A3CA-FE21640588AB}"
+                        s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}"
+                        s:DataSource="c1c0e8d1-c156-4bb3-b0f8-a2d5453c65f5" />
+                    </actions>
+                  </rule>
+                  <rule
+                    uid="{00000000-0000-0000-0000-000000000000}"
+                    s:name="Default">
+                    <conditions>
+                      <condition
+                        uid="B41B49D8340D452F9817E7F215593A1E"
+                        s:id="{4888ABBB-F17D-4485-B14B-842413F88732}" />
+                    </conditions>
+                  </rule>
+                </ruleset>
+              </rls>
+            </r>
+            <r
               uid="{E25AB7CC-356F-4A00-A1EB-CEEFBE5578BB}">
               <rls>
                 <ruleset
@@ -103,9 +136,9 @@ Languages:
                     </conditions>
                     <actions>
                       <action
-                        uid="{AE5B2E18-8588-4F41-A63D-377DC85943C2}"
+                        uid="{4DE919DA-4C6F-44A7-BD29-68457AAC186E}"
                         s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}"
-                        s:DataSource="633488c1-5a88-4637-96f7-3a1bfc1bee04" />
+                        s:DataSource="33b7efad-3e87-4b35-8ff3-0497c665cad9" />
                     </actions>
                   </rule>
                   <rule
@@ -120,6 +153,45 @@ Languages:
                 </ruleset>
               </rls>
             </r>
+            <r
+              uid="{63DF3333-CECD-4865-B2BA-A97063A9718E}">
+              <rls>
+                <ruleset
+                  s:pet="true">
+                  <rule
+                    uid="{0A9739A9-5EC0-463B-A290-A6EAAFF13156}"
+                    s:name="dceda4e1ad17426aaf541482d1cfa5b7">
+                    <conditions>
+                      <condition
+                        uid="B8F1B3A0EEEF4DCB968A83BD80C4906B"
+                        s:id="{8E7426A4-12ED-4C44-8625-E7191860E726}"
+                        s:VariantName="dceda4e1ad17426aaf541482d1cfa5b7" />
+                    </conditions>
+                    <actions>
+                      <action
+                        uid="{767BC41D-03B4-412C-885D-5F8C7751185C}"
+                        s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}"
+                        s:DataSource="5cd8439f-e4e3-46b2-87c1-8204029d8064" />
+                    </actions>
+                  </rule>
+                  <rule
+                    uid="{00000000-0000-0000-0000-000000000000}"
+                    s:name="Default">
+                    <conditions>
+                      <condition
+                        uid="0F29DA79BF9C4D85BF92F25481101E1F"
+                        s:id="{4888ABBB-F17D-4485-B14B-842413F88732}" />
+                    </conditions>
+                  </rule>
+                </ruleset>
+              </rls>
+            </r>
+            <r
+              uid="{07D4D730-EA96-47A0-8C22-635822F31602}"
+              p:after="*[1=2]"
+              s:id="{DDC43BE7-D77A-4CE3-9282-03DD036EEC6D}"
+              s:par="ComponentName=SitecoreForm%3FformId%3Dece20d64e0b746f0bddf99d8468087e4-use&amp;ComponentProps&amp;ComponentLabel=Loan%20Form&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=11"
+              s:ph="/headless-main/sxa-page-content/page-content-0-1" />
           </d>
         </r>
     - ID: "247be607-394a-4bf2-8c8a-509b07025dd9"
@@ -127,7 +199,8 @@ Languages:
       Value: Personal
     - ID: "3d30539f-d403-496a-a512-ac885b1a2f8b"
       Hint: Content
-      Value: <p>There is only one perfect future. Yours.</p>
+      Value: |
+        <div class="ck-content"><p>Transforma tus planes en logros!</p></div>
     - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
       Hint: __Workflow state
       Value: "{171CCFD4-8543-428E-9A9B-8E6557E63B6D}"
@@ -136,7 +209,7 @@ Languages:
       Value: Personal
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "77f87c13-e919-4579-89de-2c5379189ccf"
+      Value: "04004855-cd18-4854-a589-0413225fcbbd"
 - Language: "fr-CA"
   Fields:
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"

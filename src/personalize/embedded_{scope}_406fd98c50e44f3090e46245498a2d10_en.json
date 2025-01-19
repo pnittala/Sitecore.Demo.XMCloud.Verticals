@@ -3,9 +3,9 @@
   "href": "https://api-us.boxever.com/v3/flowDefinitions/10272364-197f-4dfd-b7b5-7568024fc112",
   "ref": "10272364-197f-4dfd-b7b5-7568024fc112",
   "name": "embedded_{scope}_406fd98c50e44f3090e46245498a2d10_en",
-  "modifiedByRef": "auth0|6410b1a7737ef7c399ddcc73",
-  "modifiedAt": "2025-01-10T21:57:54.867Z",
-  "revision": 4,
+  "modifiedByRef": "UsQ4dFnLMklHuDXU8acKstHeXEC65tgU@clients",
+  "modifiedAt": "2025-01-13T16:27:15.889Z",
+  "revision": 6,
   "archived": false,
   "friendlyId": "embedded_{scope}_406fd98c50e44f3090e46245498a2d10_en",
   "type": "INTERACTIVE_API_FLOW",
@@ -21,7 +21,7 @@
   "traffic": {
     "type": "audienceTraffic",
     "weightingAlgorithm": "USER_DEFINED",
-    "modifiedAt": "2025-01-10T21:57:55.006Z",
+    "modifiedAt": "2025-01-13T16:27:15.906Z",
     "splits": [
       {
         "template": "{\"variantId\": \"dceda4e1ad17426aaf541482d1cfa5b7\"}",
@@ -59,7 +59,7 @@
   "variants": [],
   "transpiledVariants": [
     {
-      "ref": "cd6ff64a-5bc6-4924-a8ef-49f9dd3060a2",
+      "ref": "cce8f661-1088-4b15-90e9-1c19b4e19c1b",
       "name": "Visit",
       "tasks": [
         {
