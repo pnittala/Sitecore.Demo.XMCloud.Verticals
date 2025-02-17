@@ -4,8 +4,8 @@
   "ref": "148e4690-e052-4361-b689-6452df46e241",
   "name": "embedded_{scope}_b2a38fb82e854d58afe5c12beccbee3a_en",
   "modifiedByRef": "UsQ4dFnLMklHuDXU8acKstHeXEC65tgU@clients",
-  "modifiedAt": "2025-02-13T18:20:50.075Z",
-  "revision": 2,
+  "modifiedAt": "2025-02-17T20:30:41.995Z",
+  "revision": 4,
   "archived": false,
   "friendlyId": "embedded_{scope}_b2a38fb82e854d58afe5c12beccbee3a_en",
   "type": "INTERACTIVE_API_FLOW",
@@ -20,7 +20,7 @@
   "traffic": {
     "type": "audienceTraffic",
     "weightingAlgorithm": "USER_DEFINED",
-    "modifiedAt": "2025-02-13T18:20:50.257Z",
+    "modifiedAt": "2025-02-17T20:30:42.041Z",
     "splits": [
       {
         "template": "{\"variantId\": \"5e9637fd02a84b21b5f46c1466e26e17\"}",
@@ -150,7 +150,7 @@
   "variants": [],
   "transpiledVariants": [
     {
-      "ref": "41805b01-4592-4f01-b8a8-a54413aa0817",
+      "ref": "9bfcc13e-bcae-42e4-8601-31335ecec13d",
       "name": "Business Campaign",
       "tasks": [
         {
